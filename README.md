@@ -9,3 +9,4 @@
 - [Exploiting Deep Representations for Neural Machine Translation](https://arxiv.org/pdf/1810.10181.pdf). EMNLP 2018.
 - [Multi-layer Representation Fusion for Neural Machine Translation](https://www.aclweb.org/anthology/C18-1255). CICLing 2018.
 - [Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation](https://papers.nips.cc/paper/8019-layer-wise-coordination-between-encoder-and-decoder-for-neural-machine-translation.pdf). NeurIPS 2018.
+- [Training Tips for the Transformer Model](https://www.degruyter.com/downloadpdf/j/pralin.2018.110.issue-1/pralin-2018-0002/pralin-2018-0002.pdf). PBML 2018.
