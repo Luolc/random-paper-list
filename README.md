@@ -5,6 +5,7 @@
 - [Towards a Deep and Unified Understanding of Deep Neural Models in NLP](http://proceedings.mlr.press/v97/guan19a/guan19a.pdf). ICML 2019.
 - [Depth Growing for Neural Machine Translation](https://arxiv.org/pdf/1907.01968.pdf). ACL 2019.
 - [Adaptive Gradient Methods with Dynamic Bound of Learning Rate](https://openreview.net/pdf?id=Bkg3g2R9FX). ICLR 2019.
+- [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf). ICLR 2019.
 - [A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation](https://openreview.net/pdf?id=r14EOsCqKX). ICLR 2019.
 - [Training Deeper Neural Machine Translation Models with Transparent Attention](https://arxiv.org/pdf/1808.07561.pdf). EMNLP 2018.
 - [Exploiting Deep Representations for Neural Machine Translation](https://arxiv.org/pdf/1810.10181.pdf). EMNLP 2018.
